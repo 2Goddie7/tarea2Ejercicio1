@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ebe74db-e9c7-4687-8fd9-6938ebcd0d35" name="Changes" comment="" />
+    <list default="true" id="8ebe74db-e9c7-4687-8fd9-6938ebcd0d35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarea2Ejercicio1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deberEjercicioDos" beforeDir="false" afterPath="$PROJECT_DIR$/../deberEjercicioDos" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +30,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Jugador.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Usuario/Desktop/POO/tarea2Ejercicio1/src/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -45,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729042458449</updated>
-      <workItem from="1729042459555" duration="2000" />
+      <workItem from="1729042459555" duration="352000" />
     </task>
     <servers />
   </component>
@@ -56,8 +70,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/src/Jugador.java</url>
+          <line>20</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
